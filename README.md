@@ -1,3 +1,3 @@
 # MBaraka
 just check something 
-on git
+on git 2
